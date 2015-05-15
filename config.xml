@@ -8,11 +8,11 @@
     <name>virtual UPC</name>
 
     <description>
-        Moodle Mobile official app
+        Aplicación virtual universidad piloto
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://virtual.unipiloto.edu.co" email="oscar-moreno4@unipiloto.edu.co">
+        Oscar Moreno
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
